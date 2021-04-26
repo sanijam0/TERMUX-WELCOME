@@ -5,11 +5,9 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "Created By github.com/itzr00tbyte" | lolcat
+echo -e "Created By JAM-SHAHRUKH" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie Youtube channel " | lolcat
-figlet -c Welcome  
+figlet -c JAM  
 date | lolcat
-echo -e "YOUTUBE CHANNEL  : \n www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo -e "Facebook Page  : \n Jam Shahrukh Oficial" | lolcat
 echo "-----------------------------------" | lolcat
-echo "Follow Me On Instagram :itz_r00tbyte" | lolcat
